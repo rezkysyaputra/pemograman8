@@ -1,0 +1,15 @@
+/Users/rezky/Projects/pemrog8/pemrog8/bin/Debug/net7.0/pemrog8
+/Users/rezky/Projects/pemrog8/pemrog8/bin/Debug/net7.0/pemrog8.deps.json
+/Users/rezky/Projects/pemrog8/pemrog8/bin/Debug/net7.0/pemrog8.runtimeconfig.json
+/Users/rezky/Projects/pemrog8/pemrog8/bin/Debug/net7.0/pemrog8.dll
+/Users/rezky/Projects/pemrog8/pemrog8/bin/Debug/net7.0/pemrog8.pdb
+/Users/rezky/Projects/pemrog8/pemrog8/obj/Debug/net7.0/pemrog8.csproj.AssemblyReference.cache
+/Users/rezky/Projects/pemrog8/pemrog8/obj/Debug/net7.0/pemrog8.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rezky/Projects/pemrog8/pemrog8/obj/Debug/net7.0/pemrog8.AssemblyInfoInputs.cache
+/Users/rezky/Projects/pemrog8/pemrog8/obj/Debug/net7.0/pemrog8.AssemblyInfo.cs
+/Users/rezky/Projects/pemrog8/pemrog8/obj/Debug/net7.0/pemrog8.csproj.CoreCompileInputs.cache
+/Users/rezky/Projects/pemrog8/pemrog8/obj/Debug/net7.0/pemrog8.dll
+/Users/rezky/Projects/pemrog8/pemrog8/obj/Debug/net7.0/refint/pemrog8.dll
+/Users/rezky/Projects/pemrog8/pemrog8/obj/Debug/net7.0/pemrog8.pdb
+/Users/rezky/Projects/pemrog8/pemrog8/obj/Debug/net7.0/pemrog8.genruntimeconfig.cache
+/Users/rezky/Projects/pemrog8/pemrog8/obj/Debug/net7.0/ref/pemrog8.dll

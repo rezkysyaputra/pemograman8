@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{738CF9ED-5D79-4CC5-8820-BEE63559ED08}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="pemrog8/Person.cs">
+    <Files>
+      <File FileName="pemrog8/Program.cs" Line="25" Column="83" />
+      <File FileName="pemrog8/Person.cs" Line="31" Column="61" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="pemrog8" expanded="True">
+            <Node name="pemrog8" expanded="True">
+              <Node name="Person.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.pemrog8 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
